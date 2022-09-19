@@ -1,0 +1,3 @@
+[submodule "Back-End-Node"]
+	path = Back-End-Node
+	url = https://github.com/IARA-TBC/Back-End-Node.git
