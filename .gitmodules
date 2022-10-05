@@ -4,3 +4,9 @@
 [submodule "Back-End-Node"]
 	path = Back-End-Node
 	url = https://github.com/IARA-TBC/Back-End-Node.git
+[submodule "Back-End-Flask"]
+	path = Back-End-Flask
+	url = https://github.com/IARA-TBC/Back-End-Flask.git
+[submodule "Iara"]
+	path = Iara
+	url = https://github.com/colotaddeo/Iara.git
