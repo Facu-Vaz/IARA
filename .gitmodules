@@ -10,3 +10,6 @@
 [submodule "Iara"]
 	path = Iara
 	url = https://github.com/colotaddeo/Iara.git
+[submodule "IA/Transformers"]
+	path = IA/Transformers
+	url = https://github.com/IARA-TBC/Transformers.git
